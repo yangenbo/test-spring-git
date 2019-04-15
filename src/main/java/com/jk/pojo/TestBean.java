@@ -10,4 +10,6 @@ public class TestBean {
     private String testName;
 
     private String kk;
+
+    private Integer status;
 }
