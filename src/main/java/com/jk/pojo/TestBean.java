@@ -8,4 +8,6 @@ public class TestBean {
     private Integer testId;
 
     private String testName;
+
+    private String kk;
 }
